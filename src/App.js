@@ -4,7 +4,7 @@ function App(){
 
     return (
     <div>
-      <h1> Cyclex Sport</h1>
+      <h1> Seja um consultor Cyclex</h1>
     </div>); 
 }
 
